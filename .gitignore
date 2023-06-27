@@ -1,3 +1,4 @@
 /vendor/*
 /vendors/*
 node_modules/
+*.txt

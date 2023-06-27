@@ -1,0 +1,11 @@
+{
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "scripts": {
+    "dev": "npx tailwindcss -i ./dist/input.css -o ./public/style.css --watch"
+  }
+}
